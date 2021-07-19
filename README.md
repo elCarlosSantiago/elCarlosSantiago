@@ -2,11 +2,11 @@
 
 ## Hey, I'm Carlos Santiago! 👋
 
-#### A Full-Stack Web Developer
+#### A Full-Stack Software Engineer
 
 ---
 
-- 🌱 I’m currently learning full-stack web development at Lambda School
+- 🌱 I’m currently learning Full-Stack web development at Lambda School
 - :brain: I consider myself to be a lifelong learner and self developer
 
 ### Languages and Tools:
