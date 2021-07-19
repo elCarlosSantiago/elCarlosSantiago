@@ -55,7 +55,5 @@
 
 <!-- [![My GitHub stats] -->
 
-
-[website]: --Under Construction--
 [twitter]: https://twitter.com/csnevett
 [linkedin]: https://www.linkedin.com/in/carlos-nevett
