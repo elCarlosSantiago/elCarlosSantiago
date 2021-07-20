@@ -56,4 +56,4 @@
 <!-- [![My GitHub stats] -->
 
 [twitter]: https://twitter.com/csnevett
-[linkedin]: https://www.linkedin.com/in/carlos-nevett
+[linkedin]: https://www.linkedin.com/in/carlosnevett
