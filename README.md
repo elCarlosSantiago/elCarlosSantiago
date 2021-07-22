@@ -4,7 +4,7 @@
 Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in project engineering and leading multi-disciplinary teams. I am leveraging my experience with Civil Infrastructure and Construction Architecture to learn all I can about Internet Infrastrucutre and Architecture.
 
 ## Now
-* Learning everything I can about software engineering and internet systems
+* :computer: Learning everything I can about software engineering and internet systems
 * :house: Currently living in California with my wife
 * :book: Currently learning about software engineering, internet infrastructure and computer science
 * 🌱 I’m currently learning Full-Stack web development at Lambda School
