@@ -1,13 +1,14 @@
 <img src="https://media.giphy.com/media/KQ7cEBa1njMTjnB3Fs/giphy.gif" alt="Readme Gif" width="100%">
 
-## Hey, I'm Carlos Santiago! 👋
+#### A Full-Stack Software Engineer with a side of Civil Engineering
+Hello, I'm Carlos Santiago :wave:. I've spent the last few years working in project engineering and leading multi-disciplinary teams. I am leveraging my experience with Civil Infranstructure and Construction Architecture to learn all I can about Internet Infrastrucutre and Architecture.
 
-#### A Full-Stack Software Engineer
-
----
-
-- 🌱 I’m currently learning Full-Stack web development at Lambda School
-- :brain: I consider myself to be a lifelong learner and self developer
+## Now
+* Learning everything I can about software engineering and internet systems
+* :house: Currently living in California with my wife
+* :book: Currently learning about software engineering, internet infrastructure and computer science
+* 🌱 I’m currently learning Full-Stack web development at Lambda School
+* :brain: I consider myself to be a lifelong learner and self developer
 
 ### Languages and Tools:
 
