@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/KQ7cEBa1njMTjnB3Fs/giphy.gif" alt="Readme Gif" width="100%">
 
 #### A Full-Stack Software Engineer with a side of Civil Engineering
-Hello, I'm Carlos Santiago :wave:.  I've spent the last few years working in project engineering and leading multi-disciplinary teams. I am leveraging my experience with Civil Infranstructure and Construction Architecture to learn all I can about Internet Infrastrucutre and Architecture.
+Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in project engineering and leading multi-disciplinary teams. I am leveraging my experience with Civil Infranstructure and Construction Architecture to learn all I can about Internet Infrastrucutre and Architecture.
 
 ## Now
 * Learning everything I can about software engineering and internet systems
