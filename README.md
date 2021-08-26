@@ -57,7 +57,6 @@ Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in pro
 
 <!-- [<img align="left" alt="carlos portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -67,5 +66,4 @@ Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in pro
 
 <!-- [![My GitHub stats] -->
 
-[twitter]: https://twitter.com/csnevett
 [linkedin]: https://www.linkedin.com/in/carlosnevett
