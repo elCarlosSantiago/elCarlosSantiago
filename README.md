@@ -6,7 +6,7 @@ Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in pro
 ## Now
 * :mortar_board: - Completed Full-Stack web development at Lambda School
 * :house: - Now living in the Bay Area with my wife
-* :computer: - Currently learning about software engineering, internet infrastructure and computer science
+* :computer: - Lets talk about software engineering, internet infrastructure and computer science
 * :brain: - I consider myself to be a lifelong student and self starter
 
 ### Languages and Tools:
