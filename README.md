@@ -67,4 +67,4 @@ Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in pro
 <!-- [![My GitHub stats] -->
 
 [linkedin]: https://www.linkedin.com/in/carlosnevett
-[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=csnevett@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=csnevett@gmail.com&su=SUBJECT&body=BODY&tf=cm
