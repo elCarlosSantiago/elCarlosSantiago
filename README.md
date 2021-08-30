@@ -58,8 +58,8 @@ Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in pro
 <!-- [<img align="left" alt="carlos portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" rel="noreferrer"/>][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/SpicyLunchbox/SpicyLunchbox/raw/main/assets/gmail_icon.svg.png" target="_blank" rel="noreferrer"/>][gmail]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" rel="noreferrer"/>][linkedin]
+[<img align="left" alt="Gmail" width="30px" src="https://github.com/SpicyLunchbox/SpicyLunchbox/raw/main/assets/gmail_icon.svg.png" target="_blank" rel="noreferrer"/>][gmail]
 <br />
 
 ---
