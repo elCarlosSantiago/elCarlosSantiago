@@ -3,11 +3,6 @@
 #### A Full-Stack Software Engineer with a side of Civil Engineering
 Hello, I'm Carlos Santiago :wave: . I've spent the last few years working in project engineering and leading multi-disciplinary teams. I am leveraging my experience with Civil Infrastructure and Construction Architecture to learn all I can about Internet Infrastructure and Architecture.
 
-## Now
-* :mortar_board: - Completed Full-Stack web development at Lambda School
-* :house: - Now living in the Bay Area with my wife
-* :computer: - Lets talk about software engineering, internet infrastructure and computer science
-* :brain: - I consider myself to be a lifelong student and self starter
 
 ### Languages and Tools:
 
