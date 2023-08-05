@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/KQ7cEBa1njMTjnB3Fs/giphy.gif" alt="Readme Gif" width="100%">
-
-#### A Full-Stack Software Engineer with a side of Civil Engineering
+#### Full-Stack Software Engineering 
 
 ## DM to talk about my work outside of Github!
 
